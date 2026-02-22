@@ -201,7 +201,7 @@ After completing this module, you will:
 # 📂 Repository Structure
 
 ```
-02_Numpy.ipynb
+Numpy.ipynb
 README.md
 ```
 
